@@ -1,4 +1,4 @@
 var namespaces_dup =
 [
-    [ "TS", "namespaceTS.html", null ]
+    [ "TS", "da/d82/namespaceTS.html", null ]
 ];
