@@ -1,0 +1,12 @@
+<map id="Task" name="Task">
+<area shape="rect" id="Node000001" title="Core task class for cooperative multitasking." alt="" coords="99,110,149,135"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="164,111,172,115,176,123,167,133,150,135,149,130,165,129,171,122,169,119,162,116"/>
+<area shape="rect" id="Node000003" href="$classScheduler.html" title="Task scheduler for cooperative multitasking." alt="" coords="81,229,167,255"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="93,145,78,163,72,183,78,204,88,217,102,227,98,231,85,221,74,207,67,183,74,160,88,142"/>
+<area shape="rect" id="Node000002" href="$struct__task__status.html" title="Internal task status structure." alt="" coords="5,5,109,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,41,119,108,114,111,70,44"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="133,216,136,205,139,183,136,162,127,136,132,135,141,161,144,183,141,206,138,217"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="182,230,190,234,194,242,186,252,168,256,167,250,183,248,189,242,187,238,180,235"/>
+<area shape="rect" id="Node000004" href="$classStatusRequest.html" title="Status Request object for event&#45;driven task invocation." alt="" coords="134,5,250,31"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="181,44,156,86,136,111,132,108,151,82,177,41"/>
+</map>
