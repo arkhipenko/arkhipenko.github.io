@@ -1,9 +1,0 @@
-<map id="src/TaskSchedulerDeclarations.h" name="src/TaskSchedulerDeclarations.h">
-<area shape="rect" id="Node000001" title="Cooperative multitasking library for Arduino microcontrollers." alt="" coords="108,5,340,31"/>
-<area shape="rect" id="Node000002" href="$dc/d2d/TSchedulerDeclarations_8hpp.html" title=" " alt="" coords="5,79,232,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,41,137,81,134,76,194,36"/>
-<area shape="rect" id="Node000003" href="$dc/d33/TaskScheduler_8h.html" title=" " alt="" coords="256,79,405,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,36,315,76,312,81,251,40"/>
-<area shape="rect" id="Node000004" href="$da/d17/TScheduler_8hpp.html" title=" " alt="" coords="259,152,403,177"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="333,118,333,152,328,152,328,118"/>
-</map>
